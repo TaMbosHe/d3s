@@ -1,6 +1,6 @@
 owner=300306052610523136
-prefix=Tu
-game=Tuplay
+prefix=6
+game=6play
 stayinchannel=true
 songinstatus=false
 token=NTM4Njg4OTU4MzI3MDI5Nzgx.Dy3dAA.NbsnPyIU0iIipIA0rVWXKxFOD0A
